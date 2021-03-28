@@ -1,0 +1,26 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About me",
+      "author": [],
+      "contents": "\nHi there! 👋\nMy name is Malte, I am junior researcher both living and working in Berlin/Germany. I am coming from the political science field, which I studied at the University of Konstanz – however, I shifted a bit towards statistics and computer science. Currently, my work includes small area estimation, (spatial) data integration, and the like. I enjoy learning more on how to implement the notion of reproducible, robust research infrastructure. In particular, I am eager to dive deeper into database engineering and the design of data systems.\nA friend of mine (who has a nice blog running) has repeatedly encouraged me to get started with blogging about technical topics, so I finally will give it a try 😬. Thus, I hope that over time some interesting posts will come into existence to justify the presence of this website!\nReading list\nIn my spare time, I am currently trying to read some bits of the following books (with scientific/technical content), and I’d be open about any form of exchange:\nGottschling, Peter. 2019. Forschung mit modernem C++\nHodges, James S. 2013. Richly Parameterized Linear Models\nKleppmann, Martin. 2017. Designing Data-intensive Applications\nMcElreath, Richard. 2020. Statistical Rethinking\nNoback, Matthias. 2020. Object Design Style Guide\nRao, J.N.K. and Isabel Molina. 2015. Small Area Estimation\n\n\n\n",
+      "last_modified": "2021-03-28T18:54:51+02:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "My blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-28T18:54:53+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Malte Kyhos",
+      "author": [],
+      "contents": "\n\n          \n          \n          mky's code\n          \n          \n          About\n          Blog\n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            Malte Kyhos\n          \n          \n            \n              \n              \n              \n              \n              \n              \n              \n              \n              \n              \n              \n              \n              \n              \n            \n            \n              \n              \n              \n              \n              \n              \n              \n              \n              \n              \n              \n              \n              \n              \n            \n          \n\n          \n            \n              \n          \n\n          \n            \n              \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    \n\n          \n          \n\n    \n  ",
+      "last_modified": "2021-03-28T18:54:54+02:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
