@@ -1,0 +1,23 @@
+name: "mky's code"
+title: "mky's code"
+base_url: "mkyhos.github.io"
+repository_url: https://github.com/mkyhos/mkyhos.github.io
+description: |
+  My personal blog about technical/statistical topics, mainly.
+output_dir: "docs"
+create_commons: CC BY
+navbar:
+  search: false 
+  source_url: true
+  right:
+    - text: "About"
+      href: about.html
+    - text: "Blog"
+      href: blog.html
+collections:
+  posts:
+    categories: true
+output:
+  distill::distill_article:
+    toc: true
+    theme: style.css

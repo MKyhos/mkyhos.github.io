@@ -1,0 +1,5 @@
+---
+title: "My blog"
+listing: posts
+site: distill::distill_website
+---

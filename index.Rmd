@@ -1,0 +1,24 @@
+---
+title: "Malte Kyhos"
+image: "images/picture_mk.jpg"
+output:
+  postcards::jolla
+site: distill::distill_website
+---
+
+<div class="center">
+<div id="social-test">
+  <ul class="social">
+    <li title="GitHub">
+      <a href="https://github.com/mkyhos"><i class="fa fa-github" aria-hidden="true"></a></i>
+    </li>
+    <li title="Twitter">
+      <a href="https://twitter.com/colorlib"><i class="fa fa-twitter" aria-hidden="true"></a></i>
+    </li>
+    <li title="LinkedIn">
+      <a href="https://linkedin.com/in/mkyhos"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+    </li>
+  </li>
+  </ul>
+</div>
+</div>
