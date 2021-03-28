@@ -1,0 +1,29 @@
+---
+title: "First steps with INLA"
+description: |
+  Integrated nested Laplace approximation remains a big questionmark on my
+  mental map. This self-therapeutic post tries to tackle inherent fear
+  with a few initial, applied examples. 
+author:
+  - name: Malte Kyhos
+    url: {}
+date: 2021-03-28
+draft: true
+categories:
+  - R
+  - Spatial Statistics
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
