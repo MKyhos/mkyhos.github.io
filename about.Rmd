@@ -23,7 +23,7 @@ to implement the notion of reproducible, robust research infrastructure.
 In particular, I am eager to dive deeper into database engineering and the design
 of data systems.
 
-A friend of mine (who has a [nice blog](https://frie.codes) running) has _repeatedly_
+A friend of mine (who has a [nice blog](https://frie.codes) running) has _repeatedly_ and _restlessly_
 encouraged me to get started with blogging about technical topics, so I finally
 will give it a try `r emo::ji("grimace")`. Thus, I hope that over time some
 interesting posts will come into existence to justify the  presence of this
